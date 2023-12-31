@@ -28,7 +28,7 @@ sudo nano /etc/nginx/sites-enabled/react-app
 
 try_files $uri $uri/ /index.html;
 
-# and run below commads 
+# and run below commads  
 
 sudo nginx -t
 
